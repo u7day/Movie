@@ -1,10 +1,10 @@
 # Movie
 Trailer webpage
 
-fesh_tomatoes.py styles n creates a webpage with instances of class Movie from passed by entertainment_center.py.
+fesh_tomatoes.py styles and creates a webpage with instances of class Movie passed by entertainment_center.py.
 
 A Class named Movie is created by media.py.
-Structure of py contains 4 variables: title, storyline, poster_image_url, trailer_youtube_url.
+Structure of Movie comprises 4 variables: title, storyline, poster_image_url & trailer_youtube_url.
 
 entertainment_center.py performs 3 tasks:
 1. Creates instances of class Movie.
