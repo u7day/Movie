@@ -62,7 +62,7 @@ wild_child = media.Movie("Wild Child",
                          "child_poster.jpg",
                          "https://www.youtube.com/watch?v=WNDJMos8h-0")
 
-# This sends all above objects to a alist named movie.
+# This sends all above objects to a list named movie.
 movies = [logan, iron_man, despicable_me, furious_7, white_house_down,
           wild_child]
 
