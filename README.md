@@ -15,6 +15,6 @@ To enjoy watching trailers just open fresh_tomatoes.html
 
 You can click on Movie Cliparts to watch Trailers.
 
-You can also open page by typing entertaintment_center.py in terminal.
+You can also open page by typing python entertaintment_center.py in terminal.
 
 Happy Watching!!!
