@@ -6,8 +6,7 @@ fesh_tomatoes.py styles and creates a webpage with instances of class Movie pass
 A Class named Movie is created by media.py.
 Structure of Movie comprises 4 variables: title, storyline, poster_image_url & trailer_youtube_url.
 
-entertainment_center.py performs 3 tasks:
-1. Creates instances of class Movie.
+entertainment_center.py performs 3 tasks:1. Creates instances of class Movie.
 2. Inserts all the instances into a list.
 3. Pass the list to fresh_tomatoes.py file.
 
